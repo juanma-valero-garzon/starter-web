@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <juan> -- <role> -- <twitter>
+    <juan> -- <admin> -- <twitter>
 
 # THANKS
 
